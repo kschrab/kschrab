@@ -1,5 +1,12 @@
-### Hi, it's me 🤙
+# Hi 🤙
 
+[![linked.in](https://img.shields.io/badge/-Karl%20Schrab-3432a8?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karl-schrab)
+[![Twitter](https://img.shields.io/badge/-karofl-blue?logo=twitter&logoColor=white)](https://twitter.com/karofl)
+![Location](https://img.shields.io/badge/-Brandenburg-yellow?logo=google-maps&logoColor=white)
+
+**I am Karl Schrab**, software developer and researcher based in Brandenburg, Germany.
+
+ 
 <!--
 **kschrab/kschrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
