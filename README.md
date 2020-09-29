@@ -3,7 +3,15 @@
 [![linked.in](https://img.shields.io/badge/-Karl%20Schrab-3432a8?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karl-schrab)
 [![Twitter](https://img.shields.io/badge/-karofl-blue?logo=twitter&logoColor=white)](https://twitter.com/karofl)
 
-**I am Karl Schrab**, software developer and researcher based in Brandenburg, Germany.
+**I am Karl Schrab**
+
+* ☕ I'm a passionate software developer.
+* ❤️ I love tests and clean code.
+* 🥼 I'm a researcher for automotive and V2X at Fraunhofer FOKUS and TU Berlin.
+* ♾️ I maintain the [Eclipse MOSAIC](https://github.com/eclipse/mosaic) repository.
+* 🏞️ I live in Spreewald, Brandenburg, Germany.
+* 🎛️ I sample beats in a band called [MØDI](https://open.spotify.com/artist/2UcUQWTtBW6A5FXVCqRAoI).
+* 📷 I love making photos.
 
  
 <!--
