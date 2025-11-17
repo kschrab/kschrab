@@ -5,7 +5,6 @@
 
 **I am Karl Schrab**
 
-<!--* 👶 I'm a proud father.-->
 * ☕ I'm a passionate software developer.
 * ❤️ I love tests and clean code.
 * 🥼 I'm a researcher for automotive and V2X at Fraunhofer FOKUS and TU Berlin.
