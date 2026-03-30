@@ -45,22 +45,22 @@ A curated list of albums I deeply love, roughly grouped by genre. One favorite p
 ## Black & Deathmetal
 * ⭐ **Blood Incantation** - [Absolute Elsewhere](https://bloodincantation.bandcamp.com/album/absolute-elsewhere) 
 * **Bloodbath** - [Nightmares Made Flesh](https://centurymedia.bandcamp.com/album/nightmares-made-flesh)
-* **Deafheaven** - [Sunbather](https://deafheavens.bandcamp.com/album/sunbather-2)
 * **Celeste** - [Morte(s) Née(s)](https://celestes.bandcamp.com/album/morte-s-nee-s)
+* **Deafheaven** - [Sunbather](https://deafheavens.bandcamp.com/album/sunbather-2)
 
 ## IDM
-* **Jon Hopkins** - [Immunity](https://jonhopkins.bandcamp.com/album/immunity)
 * **Aphex Twin** - [Selected Ambient Works Vol 2](https://aphextwin.bandcamp.com/album/selected-ambient-works-volume-ii)
 * **Boards of Canada** - [Tomorrow's Harvest](https://boardsofcanada.bandcamp.com/album/tomorrows-harvest)
+* **Jon Hopkins** - [Immunity](https://jonhopkins.bandcamp.com/album/immunity)
 * **M83** - [Hurry Up, We Are Dreaming](https://ilovem83.bandcamp.com/album/hurry-up-were-dreaming)
 
 ## Electronic 
+* **Fatboy Slim** - [You've Come a Long Way Baby](https://open.spotify.com/intl-de/album/7G7cCHgQKbDD6zvwDQZyJu)
 * **Jean-Michel Jarre** - [Oxygène](https://open.spotify.com/intl-de/album/6qF91BDNaJY4PI0mSwYv8L?si=jAimld-aRraijROSv1WMfw)
 * **Moderat** - [III](https://moderat.bandcamp.com/album/iii)
+* **Röyksopp** - [Melody A.M.](https://royksopp.bandcamp.com/album/profound-mysteries-iii)
 * **Tangerine Dream** - [Ricochet](https://open.spotify.com/intl-de/album/5mPh9ZesYOvrXdLQjapwsQ?si=uAZEpiyWSUS2CsH0s3-fMA) 
 * **Underworld** - [A Hundred Days Off](https://open.spotify.com/intl-de/album/5n192ghquuwEFORZEtNyLg?si=2Oj5DURiQcGEdVRsXKIYpQ)
-* **Röyksopp** - [Melody A.M.](https://royksopp.bandcamp.com/album/profound-mysteries-iii)
-* **Fatboy Slim** - [You've Come a Long Way Baby](https://open.spotify.com/intl-de/album/7G7cCHgQKbDD6zvwDQZyJu)
 
 ## Mathrock & Noiserock
 * **Angine de Poitrine** - [Vol. 1](https://anginedepoitrine.bandcamp.com/album/angine-de-poitrine-vol-1)
