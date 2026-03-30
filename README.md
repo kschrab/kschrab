@@ -9,7 +9,7 @@
 * 🗺️ I develop tools and pipelines for data onboarding and map releases at HERE Technologies.
 * 🥼 I've been a researcher for connected and automated mobility at Fraunhofer FOKUS and TU Berlin for 10 years.
 * ♾️ I maintain the [Eclipse MOSAIC](https://github.com/eclipse/mosaic) repository.
-* 🎶 I'm addicted to [music](/music).
+* 🎶 I'm addicted to [music](/music.md).
 * 🏞️ I live in Spreewald, Brandenburg, Germany.
 * 🎛️ I sample beats in a band called [MØDI](https://open.spotify.com/artist/2UcUQWTtBW6A5FXVCqRAoI).
 * 📷 I love making photos.
