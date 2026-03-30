@@ -63,7 +63,7 @@ A curated list of albums I deeply love, roughly grouped by genre. One favorite p
 * **Underworld** - [A Hundred Days Off](https://open.spotify.com/intl-de/album/5n192ghquuwEFORZEtNyLg?si=2Oj5DURiQcGEdVRsXKIYpQ)
 
 ## Mathrock & Noiserock
-* **Angine de Poitrine** - [Vol. 1](https://anginedepoitrine.bandcamp.com/album/angine-de-poitrine-vol-1)
+* **Angine de Poitrine** - [Vol. 1](https://www.youtube.com/watch?v=0Ssi-9wS1so)
 * **Daughters** - [You Won’t Get What You Want](https://daughters.bandcamp.com/album/you-wont-get-what-you-want)
 * **Giraffes? Giraffes!** - [More Skin With Milk Mouth](https://giraffesgiraffes.bandcamp.com/album/more-skin-with-milk-mouth)
 * **Swans** - [Birthing](https://swans.bandcamp.com/album/birthing)
